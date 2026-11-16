@@ -1,0 +1,6 @@
+# Record-level SHC data are not distributed with this repository
+*records*.csv
+india_master*.csv
+*.qs
+__pycache__/
+.ipynb_checkpoints/

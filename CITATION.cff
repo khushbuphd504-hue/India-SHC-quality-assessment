@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these statistics or scripts, please cite them as below."
+title: "india-shc-quality-assessment: code and aggregated statistics for a national quality assessment of India's Soil Health Card soil nutrient data"
+authors:
+  - family-names: Gupta
+    given-names: Khushbu
+    affiliation: "Delhi Technological University; Vivekananda Institute of Professional Studies - Technical Campus"
+    email: khushbugupta_23phdit504@dtu.ac.in
+  - family-names: Sisaudia
+    given-names: Varsha
+    affiliation: "Delhi Technological University"
+version: 1.0.0
+date-released: 2026-11-16
+license: MIT
+repository-code: "https://github.com/khushbuphd504-hue/india-shc-quality-assessment"
+keywords:
+  - Soil Health Card
+  - soil data quality
+  - soil fertility
+  - India

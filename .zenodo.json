@@ -1,0 +1,12 @@
+{
+  "title": "india-shc-quality-assessment: code and aggregated statistics for a national quality assessment of India's Soil Health Card soil nutrient data",
+  "description": "Python scripts and aggregated national, state and district statistics accompanying the paper 'A national quality assessment of India's Soil Health Card soil nutrient data'. The statistics summarise 345,288 topsoil records (12 soil properties, 737 districts, six SHC cycles, 2015-2026) after quality screening. No record-level data, sample identifiers or coordinates are included; the underlying Soil Health Card measurements are owned by the Department of Agriculture and Farmers Welfare, Government of India.",
+  "upload_type": "dataset",
+  "creators": [
+    {"name": "Gupta, Khushbu", "affiliation": "Delhi Technological University"},
+    {"name": "Sisaudia, Varsha", "affiliation": "Delhi Technological University"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["Soil Health Card", "soil data quality", "soil fertility", "India", "soil nutrients"],
+  "access_right": "open"
+}
