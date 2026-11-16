@@ -12,7 +12,7 @@ The study assesses the quality of 345,288 topsoil records from India's Soil Heal
 |---|---|---|
 | `data/` | Aggregated national, state and district statistics (6 CSV files) | CC BY 4.0 |
 | `scripts/` | Python scripts for the quality indicators, summary statistics and Fig. 5 | MIT |
-| `figures/` | Fig. 5 of the paper | CC BY 4.0 |
+| `Figure/` | Fig. 5 of the paper | CC BY 4.0 |
 
 **The record-level SHC data are not included.** The SHC measurements are produced and owned by the Department of Agriculture and Farmers Welfare (DA&FW), Government of India. They can be viewed on the SHC public portal (https://soilhealth.dac.gov.in), which is accessible only from within India. Researchers who need record-level data should contact the concerned District Agriculture Department.
 
